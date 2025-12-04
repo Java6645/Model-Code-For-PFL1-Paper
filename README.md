@@ -4,4 +4,4 @@ To run the code, download it and navigate to the folder in your MATLAB path. Run
 
 The scripts take between 2-10 seconds to run on my system.
 
-The script for extended data 4 includes a simulation based on data from an example trial.
+The script for extended data 5 includes a simulation based on data from an example trial.
