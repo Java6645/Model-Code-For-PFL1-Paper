@@ -13,4 +13,7 @@ This model compares three different versions of the circuit model using differen
 
 The scripts take between 2-10 seconds to run on a system with an Intel i9-10900X CPU, 16GB of RAM, and an NVIDIA RTX A2000 GPU.
 
+License: CC0 1.0 Universal
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
